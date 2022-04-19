@@ -1,3 +1,3 @@
 # web
 
-No idea how to create new documents
+We are learning how to create webpages coding.
